@@ -7,3 +7,5 @@ When you're ready, delete this note and make the vault your own.
 Test auto push script.
 
 Test again, currently with alias.
+
+The date should work now.
