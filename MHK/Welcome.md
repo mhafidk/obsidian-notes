@@ -10,5 +10,5 @@ Test again, currently with alias.
 
 The date should work now.
 
-Now, I have made the auto push script in my mobile phone, will it work?
+Now, I have made the auto push script in my mobile phone, will it work? Yes it is, now I have updated the alias. Running the script with the alias should work now.
 
