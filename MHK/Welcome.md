@@ -15,3 +15,5 @@ Now, I have made the auto push script in my mobile phone, will it work? Yes it i
 Test pull notes from mobile.
 
 Test push from mobile using widget
+
+Now, testing pull from mobile using widget.
