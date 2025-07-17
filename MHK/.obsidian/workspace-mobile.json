@@ -20,23 +20,8 @@
               "icon": "lucide-file",
               "title": "2025-07-17"
             }
-          },
-          {
-            "id": "f1ac944373bb6a60",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Daily Journal/2025-07-17.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2025-07-17"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -170,7 +155,7 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "f1ac944373bb6a60",
+  "active": "4fd1a9a727df393b",
   "lastOpenFiles": [
     "Excalidraw/Drawing 2025-07-17 21.47.24.excalidraw.md",
     "Notes/Daily Journal/2025-07-17.md",
