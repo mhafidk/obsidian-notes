@@ -25,12 +25,14 @@
             "id": "f1ac944373bb6a60",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Drawing 2025-07-17 21.47.24.excalidraw.md"
+                "file": "Notes/Daily Journal/2025-07-17.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2025-07-17 21.47.24.excalidraw"
+              "icon": "lucide-file",
+              "title": "2025-07-17"
             }
           }
         ],
@@ -170,8 +172,8 @@
   },
   "active": "f1ac944373bb6a60",
   "lastOpenFiles": [
-    "Notes/Daily Journal/2025-07-17.md",
     "Excalidraw/Drawing 2025-07-17 21.47.24.excalidraw.md",
+    "Notes/Daily Journal/2025-07-17.md",
     "Excalidraw",
     "Welcome.md",
     "Notes/Daily Journal",
