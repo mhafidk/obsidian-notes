@@ -13,3 +13,5 @@ The date should work now.
 Now, I have made the auto push script in my mobile phone, will it work? Yes it is, now I have updated the alias. Running the script with the alias should work now.
 
 Test pull notes from mobile.
+
+Test push from mobile using widget
