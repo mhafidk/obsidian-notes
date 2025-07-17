@@ -11,32 +11,13 @@
             "id": "4fd1a9a727df393b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Welcome.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Welcome"
-            }
-          },
-          {
-            "id": "aa1e194d1ee19db7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Welcome.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Welcome"
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -168,10 +149,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "aa1e194d1ee19db7",
+  "active": "4fd1a9a727df393b",
   "lastOpenFiles": [
-    "Test.md",
     "Welcome.md",
+    "Notes/Daily Journal/2025-07-17.md",
+    "Notes/Daily Journal",
+    "Notes",
+    "Test.md",
     "Test From Mobile.md"
   ]
 }
