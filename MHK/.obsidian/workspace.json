@@ -22,22 +22,6 @@
             }
           }
         ]
-      },
-      {
-        "id": "bd34449453102890",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "c18018d8ebc93487",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"
@@ -186,6 +170,8 @@
   },
   "active": "c0d984f5173de91c",
   "lastOpenFiles": [
-    "Welcome.md"
+    "Test.md",
+    "Welcome.md",
+    "Test From Mobile.md"
   ]
 }
