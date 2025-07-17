@@ -16,4 +16,4 @@ Test pull notes from mobile.
 
 Test push from mobile using widget
 
-Now, testing pull from mobile using widget.
+Now, testing pull from mobile using widget. It works!
