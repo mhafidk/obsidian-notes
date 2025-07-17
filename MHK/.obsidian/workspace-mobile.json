@@ -11,13 +11,30 @@
             "id": "4fd1a9a727df393b",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Daily Journal/2025-07-17.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "2025-07-17"
+            }
+          },
+          {
+            "id": "f1ac944373bb6a60",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2025-07-17 21.47.24.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2025-07-17 21.47.24.excalidraw"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -141,18 +158,22 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "audio-recorder:Start/stop recording": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "4fd1a9a727df393b",
+  "active": "f1ac944373bb6a60",
   "lastOpenFiles": [
-    "Welcome.md",
     "Notes/Daily Journal/2025-07-17.md",
+    "Excalidraw/Drawing 2025-07-17 21.47.24.excalidraw.md",
+    "Excalidraw",
+    "Welcome.md",
     "Notes/Daily Journal",
     "Notes",
     "Test.md",
