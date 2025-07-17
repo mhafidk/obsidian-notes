@@ -165,14 +165,18 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "audio-recorder:Start/stop recording": false,
+      "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "d7ddbba51b829d58",
+  "active": "c0d984f5173de91c",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2025-07-17 21.47.24.excalidraw.md",
+    "Notes/Daily Journal/2025-07-17.md",
+    "Excalidraw",
     "Attachments",
     "Notes/Daily Journal/Untitled.md",
-    "Notes/Daily Journal/2025-07-17.md",
     "Welcome.md",
     "Notes/Daily Journal",
     "Notes/Work",
