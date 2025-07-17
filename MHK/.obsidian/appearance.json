@@ -2,5 +2,6 @@
   "interfaceFontFamily": "IBM Plex Sans",
   "textFontFamily": "Inter",
   "monospaceFontFamily": "JetBrains Mono",
-  "cssTheme": "Atom"
+  "cssTheme": "Atom",
+  "theme": "obsidian"
 }
