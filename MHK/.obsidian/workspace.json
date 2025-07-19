@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Daily Journal/2025-07-17.md",
+                "file": "Notes/Daily Journal/2025-07-19.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-07-17"
+              "title": "2025-07-19"
             }
           }
         ]
@@ -167,13 +167,15 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "audio-recorder:Start/stop recording": false,
-      "obsidian-excalidraw-plugin:New drawing": false
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "obsidian-kanban:Create new board": false
     }
   },
   "active": "c0d984f5173de91c",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2025-07-17 21.47.24.excalidraw.md",
     "Notes/Daily Journal/2025-07-17.md",
+    "Notes/Daily Journal/2025-07-19.md",
+    "Excalidraw/Drawing 2025-07-17 21.47.24.excalidraw.md",
     "Excalidraw",
     "Attachments",
     "Notes/Daily Journal/Untitled.md",
