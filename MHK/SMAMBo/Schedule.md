@@ -3,7 +3,7 @@ XI - 17 Meetings
 ## Semester 1
 ### July 2025
 
-- July 24 - XII
+- July 24 - XII -> [[July 24, 2025]]
 - July 25 - XI
 - July 31 - XII
 ### August 2025

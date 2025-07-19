@@ -5,7 +5,7 @@ Week 1 - Week 6
 - Translasi -> Week 1
 - Refleksi -> Week 2
 - Dilatasi -> Week 3
-- Rotasi -> Week 4
+- Rotasi -> Week 4 -> ==Let's see the condition first, if there is not enough time, this topic will be excluded.==
 - Kombinasi Transformasi Fungsi -> Week 5
 - Exercises -> Week 6
 ### Busur dan Juring Lingkaran

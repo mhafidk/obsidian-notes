@@ -11,14 +11,12 @@
             "id": "c0d984f5173de91c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "SMAMBo/Matematika Lanjut/00 - Matematika Lanjut Kelas 11.md",
-                "mode": "source",
-                "source": false
+                "file": "Attachments/Screenshot 2025-07-19 221910.png"
               },
-              "icon": "lucide-file",
-              "title": "00 - Matematika Lanjut Kelas 11"
+              "icon": "lucide-image",
+              "title": "Screenshot 2025-07-19 221910"
             }
           }
         ]
@@ -78,7 +76,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 355.5
   },
   "right": {
     "id": "bc2dc06bfdad27fd",
@@ -173,12 +171,26 @@
   },
   "active": "c0d984f5173de91c",
   "lastOpenFiles": [
+    "SMAMBo/Matematika Umum/Transformasi Geometri - Translasi.md",
+    "Screenshot.md",
+    "Attachments/Screenshot 2025-07-19 221910.png",
+    "Attachments/Screenshot 2025-07-19 233043.png",
+    "Attachments/Screenshot 2025-07-19 232149.png",
+    "Attachments/Screenshot 2025-07-19 232201.png",
+    "Attachments/Screenshot 2025-07-19 230542.png",
+    "Attachments/Screenshot 2025-07-19 230357.png",
+    "Attachments/Screenshot 2025-07-19 230138.png",
+    "Attachments/Screenshot 2025-07-19 221910 1.png",
+    "Attachments/Screenshot 2025-07-19 225540.png",
+    "Attachments/desmos-graph.png",
     "SMAMBo/Matematika Umum/00 - Matematika Umum Kelas 12.md",
+    "SMAMBo/Plan/July 24, 2025.md",
+    "SMAMBo/Matematika Lanjut/00 - Matematika Lanjut Kelas 12.md",
     "SMAMBo/Matematika Umum/00 - Matematika Umum Kelas 11.md",
     "SMAMBo/Matematika Lanjut/00 - Matematika Lanjut Kelas 11.md",
-    "SMAMBo/Matematika Lanjut/00 - Matematika Lanjut Kelas 12.md",
-    "SMAMBo/Schedule.md",
     "SMAMBo/Files.md",
+    "SMAMBo/Schedule.md",
+    "SMAMBo/Plan",
     "Attachments/JADWAL MAPEL & DAFTAR GURU.pdf",
     "Attachments/KALDIK SMAMBO 25-26.pdf",
     "Attachments",
@@ -193,7 +205,6 @@
     "Welcome.md",
     "Notes/Daily Journal",
     "Notes/Work",
-    "Notes/Personal",
     "Test From Mobile.md",
     "Test.md"
   ]
