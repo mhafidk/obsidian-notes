@@ -1,17 +1,20 @@
-## Transformasi Fungsi
-
-- Translasi
-- Refleksi
-- Dilatasi
-- Rotasi
-- Kombinasi Transformasi Fungsi
-## Busur dan Juring Lingkaran
-
+## Semester 1
+### Matematika Dasar
+### Transformasi Fungsi
+Week 1 - Week 6
+- Translasi -> Week 1
+- Refleksi -> Week 2
+- Dilatasi -> Week 3
+- Rotasi -> Week 4
+- Kombinasi Transformasi Fungsi -> Week 5
+- Exercises -> Week 6
+### Busur dan Juring Lingkaran
+Week 7 - Week 12
 - Busur Lingkaran
 - Juring Lingkaran
 - Hubungan Panjang Busur dan Juring Lingkaran
-## Kombinatorik
-
+## Semester 2
+### Kombinatorik
 - Permutasi
 - Kombinasi
 - Peluang Kejadian
